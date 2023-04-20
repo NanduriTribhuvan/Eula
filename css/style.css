@@ -1,0 +1,87 @@
+body {
+    background-image: linear-gradient(to right, #87CBB9 , #569DAA, #577D86,  #87CBB9);
+}
+
+.top-2 {
+    text-align: center;
+    font-family: 'Secular One', sans-serif;
+    font-size: 70px;
+    color: #ffff;
+}
+.top-3 {
+    text-align: center;
+    font-family: 'Secular One', sans-serif;
+    font-size: 30px;
+    color: #ffff;
+}
+
+span {
+    color: #000f0f;
+}
+
+.btn {
+    background-color: #000f0f;
+    border: none;
+    color: #ffffff;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-family: 'Secular One', sans-serif;
+    border-radius: 4px;
+  }
+
+.btn3 {
+    background-color: #ffffff;
+    border: none;
+    color: #000f0f;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-family: 'Secular One', sans-serif;
+    border-radius: 4px;
+  }
+
+.en2 {
+    text-align: center;
+    font-family: 'Secular One', sans-serif;
+    font-size: 20px;
+    color: #ffff;
+}
+
+.btn5 {
+    background-color: #ffffff;
+    border: none;
+    color: #000f0f;
+    padding: 10px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 2px 2px;
+    cursor: pointer;
+    font-family: 'Secular One', sans-serif;
+    border-radius: 4px;
+}
+
+.endn {
+    background-color: #ffffff;
+    border: none;
+    color: #000f0f;
+    padding: 10px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 2px 2px;
+    cursor: pointer;
+    font-family: 'Secular One', sans-serif;
+    border-radius: 4px;
+}
